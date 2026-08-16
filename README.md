@@ -98,3 +98,9 @@ Based on the analysis, organizations can:
 This project demonstrates the use of Python, Pandas, Matplotlib, and Seaborn to perform exploratory data analysis and generate meaningful business insights from employee data.
 
 The analysis helps understand workforce patterns and supports data-driven decisions related to employee retention, compensation, performance, and workforce planning.
+
+---
+
+## 👩‍💻 Author
+
+**Chandhravadhani**
